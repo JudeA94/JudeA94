@@ -1,6 +1,6 @@
 ### Hi, I'm Jude 👋
 **Links**
-<div align="right">
+<div align="left">
  <a href="https://www.linkedin.com/in/jude-ashworth-131690129/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
