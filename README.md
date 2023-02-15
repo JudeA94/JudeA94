@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  
  <a href="https://www.codewars.com/users/Jashworth" target='_blank'>
-    <img src="[https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)"/></a>
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
  </div>
 
 **About Me**
