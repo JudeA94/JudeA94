@@ -12,9 +12,9 @@
  </div>
 
 **About Me**
-- I like doing problem solving stuff like [this](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
+- I like doing problem solving stuff like [this](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle) :bulb: 😄
 - I used to be an A-level maths and further maths teacher :school: :heavy_multiplication_x: :heavy_division_sign: :heavy_plus_sign: :heavy_minus_sign:
-- I really like live music and cooking :musical_note: :fork_and_knife:
+- I really like live music and cooking :musical_note: :fork_and_knife: :cook:
 - I am looking for a junior developer role to start an exciting journey into the world of tech :office: :computer:
 
 **Tech Skills** 
